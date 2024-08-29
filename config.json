@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "redirectEndpoint": "http://localhost:4200/home"
+}
+  
